@@ -54,18 +54,25 @@ This project investigates the vulnerability of neural networks to adversarial ex
 ---
 
 ## Project Structure
-├── 1.MNIST_Adversarial_target_cnn_trained.ipynb # CNN model training
-├── 2.FGSM_attack.ipynb # FGSM attack implementation 
-├── 3.PGD.ipynb # PGD attack implementation 
-├── 4.Adversarial_Defense_Model_training_On_adversarial_examples_.ipynb # Defense via adversarial training 
-├── mnist_cnn.pth # Baseline model weights 
-├── mnist_cnn_adversarially_trained.pth # Robust model weights
-├── README.md # Project documentation
+├── 1.MNIST_Adversarial_target_cnn_trained.ipynb 
+
+├── 2.FGSM_attack.ipynb 
+
+├── 3.PGD.ipynb
+
+├── 4.Adversarial_Defense_Model_training_On_adversarial_examples_.ipynb 
+
+├── mnist_cnn.pth 
+
+├── mnist_cnn_adversarially_trained.pth 
+
+├── README.md 
+
 
 
 ---
 
-## 🧩 Future Work
+## Future Work
 - Implement black-box attacks.
 - Explore other defenses like:
   - Input preprocessing
@@ -75,12 +82,10 @@ This project investigates the vulnerability of neural networks to adversarial ex
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Nikhar Asthana**  
 This project was built as part of my learning journey into adversarial machine learning and model robustness.  
 Looking for AI/ML research internship opportunities to apply and deepen this knowledge.
 
 ---
 
-## 📜 License
-This project is open for educational and research use.
